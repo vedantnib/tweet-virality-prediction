@@ -1,8 +1,3 @@
-#Group Members:
-#Ameya Potey, NetId: ANP200000
-#Koushik Grandhi, NetId: KXG190042
-#Vedant Nibandhe, NetId: VXN200012
-
 1. Set up Environment
       - Download logstash, kibana, elastic search, kafka and zookeeper
       - You will need jupyter to run the Spark code. 
