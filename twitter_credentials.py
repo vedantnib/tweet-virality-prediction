@@ -1,0 +1,6 @@
+apiKey = ""
+apiKeySecret = ""
+bearerToken = ""
+accessToken = ""
+accessTokenSecret = ""
+dataset_path = "random_tweets.json"
